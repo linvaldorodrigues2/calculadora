@@ -1,2 +1,3 @@
-# calculadora
-Projeto calculadora, desenvolvido em JS
+# Calculadora JS
+## Calculadora desenvolvida em JS
+![calculadora.png](./img/calculadora.png)
